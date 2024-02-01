@@ -4,7 +4,7 @@ import reactLogo from './assets/react.svg'
 
 function App() {
 
-  return (<>HELO</>)
+  return (<>HELLO</>)
 }
 
 export default App
